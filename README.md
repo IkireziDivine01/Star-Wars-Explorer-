@@ -11,7 +11,7 @@ Follow the steps below to clone the repository and run the project locally:
    
    ```bash
    git clone <repository-url>
-2.**Install dependencies**  
+2. **Install dependencies**  
    npm install
    
 3. **Run app**  
