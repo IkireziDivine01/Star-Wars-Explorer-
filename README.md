@@ -12,6 +12,5 @@ Follow the steps below to clone the repository and run the project locally:
    ```bash
    git clone <repository-url>
 2. **Run the app**
-   npm run dev
-3. **Vercel live app**
+    npm run dev
    
