@@ -1,8 +1,17 @@
-# React + Vite
+# UI/UX Engineer Challenge: Star Wars Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **Star Wars Explorer** project!. Below are the steps to get started with the project.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Follow the steps below to clone the repository and run the project locally:
+
+1. **Clone the repository**  
+   Clone this repository to your local machine using the following command:
+   
+   ```bash
+   git clone <repository-url>
+2. **Run the app**
+   npm run dev
+3. **Vercel live app**
+   
