@@ -1,0 +1,12 @@
+/* Star Wars-inspired starfield background */
+.star-wars-background {
+    background: radial-gradient(circle at 50% 50%, #000016, #000000 80%);
+    background-image: url('/src/assets/stars.jpg'), radial-gradient(circle at 50% 50%, #000016, #000000 80%);
+    background-size: cover, auto;
+    animation: starfield 200s linear infinite;
+  }
+  
+  @keyframes starfield {
+    from { background-position: 0 0, center; }
+    to { background-position: -10000px 0, center; }
+  }
