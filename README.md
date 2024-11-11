@@ -16,4 +16,8 @@ Follow the steps below to clone the repository and run the project locally:
    
 3. **Run app**  
    npm run dev
+
+4. **Live link**  
+   ```bash
+   https://star-wars-explorer-livid.vercel.app/
    
